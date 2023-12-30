@@ -1,19 +1,19 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SMC
 
-Submitted by: **Your Name Here**
+Submitted by: Seunghan, Lee
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+SMC is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [v] The introduction section explains the background of the company and how many games remain unfunded.
+* [v] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [v] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [v] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='mygiphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,11 +34,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I struggled with the format that the question was asking for the Challenge 2. I was able to come up with the correct solution after getting help from the fellow students and mentor in the slack channel.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Seunghan, Lee
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
